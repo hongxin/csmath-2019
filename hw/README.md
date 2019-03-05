@@ -7,8 +7,8 @@ Please hand out your 1 course paper and 5 selected homework (or exercises) by 20
 All homework and exercises must be implemented in Python and with TensorFlow (optionally)
 
 ## HW list
-+ Homework 01 ⇒ Curve fitting
-+ Homework 02 ⇒ PCA
++ [Homework 01](hw01.md) ⇒ Curve fitting
++ [Homework 02](hw02.md) ⇒ PCA
 + Homework 03 ⇒ 2D MOG and k-means
 + Homework 04 ⇒ L-M algorithm
 + Homework 05 ⇒ 2D SVM
