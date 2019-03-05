@@ -26,7 +26,7 @@ Jiaxin Liu
 |      |                     |              |  [Why data driven](pdf/csmath-01-data-driven.pdf)         |                         |
 |      |                     |              |  [Point estimation](pdf/csmath-01-point_estimation.pdf)   |                         |
 |      |                     |              |  [Additional reading](https://engineering.purdue.edu/kak/Trinity.pdf) |             |
-|  02  |  Component Analysis |  2019.03.05  |  [2D Primitive](pdf/02_primitive.pdf)                     |   HW02                  |
+|  02  |  Component Analysis |  2019.03.05  |  [SVD and X-PCA](pdf/csmath-02-component_analysis.pdf)    |   [HW02](hw/hw02.md)    |
  
 
 ## Homework and the Course Paper
