@@ -20,14 +20,17 @@ Jiaxin Liu
 + Tuesday, 18:30-21:30
 
 ## Schedule
-|  No. |   Topic             |     Date     |                  Slides                                   |   Homework         |
-|:----:| ------------------- |:------------:|:---------------------------------------------------------:|:------------------:|
-|  01  |  Introduction       |  2019.02.26  |  [Introduction](pdf/csmath-01-introduction.pdf)           |   HW01             |
-|      |                     |              |  [Why data driven](pdf/csmath-01-data-driven.pdf)         |                    |
-|      |                     |              |  [Point estimation](pdf/csmath-01-point_estimation.pdf)   |                    |
-|      |                     |              |  [Additional reading](https://engineering.purdue.edu/kak/Trinity.pdf) |        |
-|  02  |  Component Analysis |  2019.03.05  |  [2D Primitive](pdf/02_primitive.pdf)                     |   HW02             |
+|  No. |   Topic             |     Date     |                  Slides                                   |   Homework              |
+|:----:| ------------------- |:------------:|:---------------------------------------------------------:|:-----------------------:|
+|  01  |  Introduction       |  2019.02.26  |  [Introduction](pdf/csmath-01-introduction.pdf)           |   [HW01](hw/hw01.md)    |
+|      |                     |              |  [Why data driven](pdf/csmath-01-data-driven.pdf)         |                         |
+|      |                     |              |  [Point estimation](pdf/csmath-01-point_estimation.pdf)   |                         |
+|      |                     |              |  [Additional reading](https://engineering.purdue.edu/kak/Trinity.pdf) |             |
+|  02  |  Component Analysis |  2019.03.05  |  [2D Primitive](pdf/02_primitive.pdf)                     |   HW02                  |
  
+
+## Homework and the Course Paper
+Please hand out your 1 course paper and 5 selected homework (or exercises) by 2019-06-01. All homework and exercises must be implemented in Python and with TensorFlow (optionally) 
 
 ## Content
 
