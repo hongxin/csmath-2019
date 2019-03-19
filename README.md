@@ -29,6 +29,11 @@ Jiaxin Liu
 |  02  |  Component Analysis |  2019.03.05  |  [SVD and X-PCA](pdf/csmath-02-component_analysis.pdf)    |   [HW02](hw/hw02.md)    |
 |  03  |  Clustering         |  2019.03.12  |  [Clustering](pdf/csmath-03-distance_and_similarity.pdf)  |   [HW03](hw/hw03.md)    |
 |  04  |  Graphical Models   |  2019.03.19  |  [Graphical Models](pdf/csmath-04-graphical_models.pdf)   |                         |
+|      |  Additional Topics  |              |  [Naive Bayes classifier](pdf/ML2007-naive_bayes_classification.pdf)   |            |
+|      |                     |              |  [Support Vector Machines](pdf/ML2007-SVM.pdf)            |                         |
+|      |                     |              |  [Decision tree](pdf/ML2007-decision_tree.pdf)            |                         |
+|      |                     |              |  [Boosting](pdf/ML2007-boosting.pdf)                      |                         |
+| ---  |  ---                |  ---         |  ---                                                      |   ---                   |
 
 
 ## Homework and the Course Paper
