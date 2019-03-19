@@ -27,7 +27,9 @@ Jiaxin Liu
 |      |                     |              |  [Point estimation](pdf/csmath-01-point_estimation.pdf)   |                         |
 |      |                     |              |  [Additional reading](https://engineering.purdue.edu/kak/Trinity.pdf) |             |
 |  02  |  Component Analysis |  2019.03.05  |  [SVD and X-PCA](pdf/csmath-02-component_analysis.pdf)    |   [HW02](hw/hw02.md)    |
- 
+|  03  |  Clustering         |  2019.03.12  |  [Clustering](pdf/csmath-03-distance_and_similarity.pdf)  |   [HW03](hw/hw03.md)    |
+|  04  |  Graphical Models   |  2019.03.19  |  [Graphical Models](pdf/csmath-04-graphical_models.pdf)   |                         |
+
 
 ## Homework and the Course Paper
 Please hand out your 1 course paper and 5 selected homework (or exercises) by 2019-06-01. All homework and exercises must be implemented in Python and with TensorFlow (optionally) 
