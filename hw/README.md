@@ -9,7 +9,7 @@ All homework and exercises must be implemented in Python and with TensorFlow (op
 ## HW list
 + [Homework 01](hw01.md) ⇒ Curve fitting
 + [Homework 02](hw02.md) ⇒ PCA
-+ Homework 03 ⇒ 2D MOG and k-means
++ [Homework 03](hw03.md) ⇒ 2D MOG and mean shift
 + Homework 04 ⇒ L-M algorithm
 + Homework 05 ⇒ 2D SVM
 
