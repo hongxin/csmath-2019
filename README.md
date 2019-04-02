@@ -36,6 +36,7 @@ Jiaxin Liu
 |      |                     |              |  [Boosting](pdf/ML2007-boosting.pdf)                      |                         |
 | ---  |  ---                |  ---         |  ---                                                      |   ---                   |
 |  05  |  Linear Programming |  2019.03.26  |  [LP-1](pdf/csmath-05-linear_programming.pdf)             |                         |
+|  05  |  Linear Programming |  2019.04.02  |  [LP-2](pdf/csmath-06-linear_programming_and_dual_methods.pdf)    |                 |
 
 ## Homework and the Course Paper
 Please hand out your 1 course paper and 5 selected homework (or exercises) by 2019-06-01. All homework and exercises must be implemented in Python and with TensorFlow (optionally) 
