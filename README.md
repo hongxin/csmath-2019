@@ -64,6 +64,6 @@ Optimization methods, both linear and non-linear ones, are important mathematica
 Students entering the class should have a pre-existing working knowledge of fundamental mathematics and algorithms, though the class has been designed to allow students with a strong numerate background to catch up and fully participate.
 
 ## Copyright
-2005-2019 Copyright By Zhejiang University
+2005-2019 Copyright By Dr. Hongxin Zhang AT Zhejiang University
 
 浙江大学 2005-2019 版权所有，如需转载或引用本课程相关内容，请与作者联系。
