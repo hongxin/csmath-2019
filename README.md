@@ -42,7 +42,9 @@ Jiaxin Liu
 |      |                     |              |  [mind-map](pdf/mind-map-01.PNG)                          |                         |
 
 ## Homework and the Course Paper
-Please hand out your 1 course paper and 5 selected homework (or exercises) by 2019-06-01. All homework and exercises must be implemented in Python and with TensorFlow (optionally) 
+Please hand out your 1 course paper and [5 selected homework](hw/README.md) (or exercises) by 2019-06-01. 
+
+All homework and exercises must be implemented in Python and with TensorFlow (optionally) 
 
 ## Content
 

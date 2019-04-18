@@ -10,8 +10,8 @@ All homework and exercises must be implemented in Python and with TensorFlow (op
 + [Homework 01](hw01.md) ⇒ Curve fitting
 + [Homework 02](hw02.md) ⇒ PCA
 + [Homework 03](hw03.md) ⇒ 2D MOG and mean shift
-+ Homework 04 ⇒ L-M algorithm
-+ Homework 05 ⇒ 2D SVM
++ [Homework 04](hw04.md) ⇒ L-M algorithm
++ [Homework 05](hw05.md) ⇒ 2D SVM
 
 ## Report instruction
 Please follow this [instruction](../pdf/jupyternotebook.pdf) to write a corresponding report for each homework.
