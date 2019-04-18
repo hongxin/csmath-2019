@@ -37,7 +37,9 @@ Jiaxin Liu
 | ---  |  ---                |  ---         |  ---                                                      |   ---                   |
 |  05  |  Linear Programming |  2019.03.26  |  [LP-1](pdf/csmath-05-linear_programming.pdf)             |                         |
 |  06  |  Linear Programming |  2019.04.02  |  [LP-2](pdf/csmath-06-linear_programming_and_dual_methods.pdf)    |                 |
-|  07  |  Non-Linear         |  2019.04.09  |  [NP-1](pdf/csmath-07-nonlinear.pdf)                      |[mind-map](pdf/mind-map-01.PNG)|
+|  07  |  Non-Linear         |  2019.04.09  |  [NP-1](pdf/csmath-07-nonlinear.pdf)                      |   [HW04](hw/hw04.md)    |
+|  08  |  Non-Linear         |  2019.04.16  |  [NP-2](pdf/csmath-08-nonlinear_and_qp.pdf)               |   [HW05](hw/hw05.md)    |
+|      |                     |              |  [mind-map](pdf/mind-map-01.PNG)                          |                         |
 
 ## Homework and the Course Paper
 Please hand out your 1 course paper and 5 selected homework (or exercises) by 2019-06-01. All homework and exercises must be implemented in Python and with TensorFlow (optionally) 
