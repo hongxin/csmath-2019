@@ -69,3 +69,5 @@ Students entering the class should have a pre-existing working knowledge of fund
 2005-2019 Copyright By Dr. Hongxin Zhang AT Zhejiang University
 
 浙江大学 2005-2019 版权所有，如需转载或引用本课程相关内容，请与作者联系。
+
+You can also visit my weibo: https://weibo.com/kull
