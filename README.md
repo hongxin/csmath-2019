@@ -45,7 +45,7 @@ Jiaxin Liu
 | ---  |   ---               |  ---         |  ---                                                      |   ---                   |
 | ---  |   ---               |  ---         |  The summer semester                                      |   ---                   |
 |  09  |  Numerical Methods  |  2019.04.30  |  [nm-1](pdf/csmath-09-nm-01.pdf)                          |                         |
-
+|  10  |  Numerical Methods  |  2019.05.07  |  [nm-2](pdf/csmath-10-nm-02.pdf)                          |                         |
 
 ## Homework and the Course Paper
 Please hand out your 1 course paper and [5 selected homework](hw/README.md) (or exercises) by 2019-06-01. 
@@ -65,7 +65,7 @@ Students entering the class should have a pre-existing working knowledge of prob
 + [The Elements of Statistical Learning: Data Mining, Inference, and Prediction. Second Edition, 2009.](http://www-stat.stanford.edu/~tibs/ElemStatLearn/)
 
 #### Reference website
-[Stanford machine Learning course](http://www.stanford.edu/class/cs229/)
++ [Stanford machine Learning course](http://www.stanford.edu/class/cs229/)
 
 
 ### Courselet on Optimization
