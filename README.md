@@ -10,7 +10,8 @@ This mathematics course is designed for the first year Ph.D. students of compute
 
 
 ## Instructor
-Dr. Hongxin Zhang http://www.cad.zju.edu.cn/home/zhx/
++ [Dr. Hongxin Zhang](http://www.cad.zju.edu.cn/home/zhx/), the spring semester, [his weibo](https://weibo.com/kull/)
++ [Dr. Ming Li](http://www.cad.zju.edu.cn/liming), the summer semester 
 
 ## TA
 Jiaxin Liu
@@ -21,7 +22,8 @@ Jiaxin Liu
 
 ## Schedule
 |  No. |   Topic             |     Date     |                  Slides                                   |   Homework              |
-|:----:| ------------------- |:------------:|:---------------------------------------------------------:|:-----------------------:|
+|:----:|:-------------------:|:------------:|:---------------------------------------------------------:|:-----------------------:|
+| ---  |   ---               |  ---         |  The spring semester                                      |   ---                   |
 |  01  |  Introduction       |  2019.02.26  |  [Introduction](pdf/csmath-01-introduction.pdf)           |   [HW01](hw/hw01.md)    |
 |      |                     |              |  [Why data driven](pdf/csmath-01-data-driven.pdf)         |                         |
 |      |                     |              |  [Point estimation](pdf/csmath-01-point_estimation.pdf)   |                         |
@@ -29,17 +31,21 @@ Jiaxin Liu
 |  02  |  Component Analysis |  2019.03.05  |  [SVD and X-PCA](pdf/csmath-02-component_analysis.pdf)    |   [HW02](hw/hw02.md)    |
 |  03  |  Clustering         |  2019.03.12  |  [Clustering](pdf/csmath-03-distance_and_similarity.pdf)  |   [HW03](hw/hw03.md)    |
 |  04  |  Graphical Models   |  2019.03.19  |  [Graphical Models](pdf/csmath-04-graphical_models.pdf)   |                         |
-| ---  |  ---                |  ---         |  ---                                                      |   ---                   |
+| ---  |   ---               |  ---         |  ---                                                      |   ---                   |
 |      |  Additional Topics  |              |  [Naive Bayes classifier](pdf/ML2007-naive_bayes_classification.pdf)   |            |
 |      |                     |              |  [Support Vector Machines](pdf/ML2007-SVM.pdf)            |                         |
 |      |                     |              |  [Decision tree](pdf/ML2007-decision_tree.pdf)            |                         |
 |      |                     |              |  [Boosting](pdf/ML2007-boosting.pdf)                      |                         |
-| ---  |  ---                |  ---         |  ---                                                      |   ---                   |
+| ---  |   ---               |  ---         |  ---                                                      |   ---                   |
 |  05  |  Linear Programming |  2019.03.26  |  [LP-1](pdf/csmath-05-linear_programming.pdf)             |                         |
 |  06  |  Linear Programming |  2019.04.02  |  [LP-2](pdf/csmath-06-linear_programming_and_dual_methods.pdf)    |                 |
 |  07  |  Non-Linear         |  2019.04.09  |  [NP-1](pdf/csmath-07-nonlinear.pdf)                      |   [HW04](hw/hw04.md)    |
 |  08  |  Non-Linear         |  2019.04.16  |  [NP-2](pdf/csmath-08-nonlinear_and_qp.pdf)               |   [HW05](hw/hw05.md)    |
 |      |                     |              |  [mind-map](pdf/mind-map-01.PNG)                          |                         |
+| ---  |   ---               |  ---         |  ---                                                      |   ---                   |
+| ---  |   ---               |  ---         |  The summer semester                                      |   ---                   |
+|  09  |  Numerical Methods  |  2019.04.30  |  [nm-1](pdf/csmath-09-nm-01.pdf)                          |                         |
+
 
 ## Homework and the Course Paper
 Please hand out your 1 course paper and [5 selected homework](hw/README.md) (or exercises) by 2019-06-01. 
