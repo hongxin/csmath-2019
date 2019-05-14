@@ -44,8 +44,11 @@ Jiaxin Liu
 |      |                     |              |  [mind-map](pdf/mind-map-01.PNG)                          |                         |
 | ---  |   ---               |  ---         |  ---                                                      |   ---                   |
 | ---  |   ---               |  ---         |  The summer semester                                      |   ---                   |
-|  09  |  Numerical Methods  |  2019.04.30  |  [nm-1](pdf/csmath-09-nm-01.pdf)                          |                         |
-|  10  |  Numerical Methods  |  2019.05.07  |  [nm-2](pdf/csmath-10-nm-02.pdf)                          |                         |
+|  09  |Numerical Methods(1) |  2019.04.30  |  [nm-1](pdf/csmath-09-nm-01.pdf)                          |                         |
+|  10  |Numerical Methods(2) |  2019.05.07  |  [nm-2](pdf/csmath-10-nm-02.pdf)                          |                         |
+|      | Additional Material |              |  [](pdf/nm-01.pdf)                                        |                         |
+|  11  |Numerical Methods(3) |  2019.05.14  |  [nm-3](pdf/csmath-10-nm-02.pdf)                          |                         |
+|  12  |Numerical Methods(4) |  2019.05.21  |  [nm-4](pdf/csmath-10-nm-02.pdf)                          |                         |
 
 ## Homework and the Course Paper
 Please hand out your 1 course paper and [5 selected homework](hw/README.md) (or exercises) by 2019-06-01. 
