@@ -12,6 +12,7 @@ This mathematics course is designed for the first year Ph.D. students of compute
 ## Instructor
 + [Dr. Hongxin Zhang](http://www.cad.zju.edu.cn/home/zhx/), the spring semester, [his weibo](https://weibo.com/kull/)
 + [Dr. Ming Li](http://www.cad.zju.edu.cn/liming), the summer semester 
++ [Dr. Yubo Tao](http://www.cad.zju.edu.cn/home/ybtao/), the summer semester
 
 ## TA
 Jiaxin Liu
@@ -49,6 +50,12 @@ Jiaxin Liu
 |      | Additional Material |              |  [](pdf/nm-01.pdf)                                        |                         |
 |  11  |Numerical Methods(3) |  2019.05.14  |  [nm-3](pdf/csmath-10-nm-02.pdf)                          |                         |
 |  12  |Numerical Methods(4) |  2019.05.21  |  [nm-4](pdf/csmath-10-nm-02.pdf)                          |                         |
+| ---  |   ---               |  ---         |  ---                                                      |   ---                   |
+|  13  |PDE(1)               |  2019.05.28  |  [pde-1](pdf/csmath-13-PDE1.pdf)                          |                         |
+|  14  |PDE(2)               |  2019.05.28  |  [pde-2](pdf/csmath-14-PDE2.pdf)                          |                         |
+|  15  |Sparsity             |  2019.06.04  |  [slides](pdf/csmath-15-sparsity.pdf)                     |                         |
+|  16  |Tensors              |  2019.06.04  |  [slides](pdf/csmath-16-tensors.pdf)                      |                         |
+|      |Projects             |  2019.06.18  |  [note](pdf/csmath-summer-project.pdf)                    |                         |
 
 ## Homework and the Course Paper
 Please hand out your 1 course paper and [5 selected homework](hw/README.md) (or exercises) by 2019-06-01. 
