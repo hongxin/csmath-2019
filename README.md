@@ -47,7 +47,12 @@ Jiaxin Liu
 | ---  |   ---               |  ---         |  The summer semester                                      |   ---                   |
 |  09  |Numerical Methods(1) |  2019.04.30  |  [nm-1](pdf/csmath-09-nm-01.pdf)                          |                         |
 |  10  |Numerical Methods(2) |  2019.05.07  |  [nm-2](pdf/csmath-10-nm-02.pdf)                          |                         |
-|      | Additional Material |              |  [](pdf/nm-01.pdf)                                        |                         |
+|      | Additional Material |              |  [SVD Revisit](pdf/csmath-09-SVDIntroduction.pdf)         |                         |
+|      |                     |              |  [SVD Properties](pdf/csmath-09-SVDProperties.pdf)        |                         |
+|      |                     |              |  [Orthogonality](pdf/csmath-09-Orthogonality.pdf)         |                         |
+|      |                     |              |  [Conjugate Gradient](pdf/csmath-09-ConjugateGradient.pdf)|                         |
+|      |                     |              |  [Error Analysis](pdf/csmath-09-ErrorAnalysis.pdf)        |                         |
+|      |                     |              |  [Iterative Methods](pdf/csmath-09-IterativeMethods.pdf)  |                         |
 |  11  |Numerical Methods(3) |  2019.05.14  |  [nm-3](pdf/csmath-10-nm-02.pdf)                          |                         |
 |  12  |Numerical Methods(4) |  2019.05.21  |  [nm-4](pdf/csmath-10-nm-02.pdf)                          |                         |
 | ---  |   ---               |  ---         |  ---                                                      |   ---                   |
